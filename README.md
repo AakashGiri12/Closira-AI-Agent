@@ -11,7 +11,7 @@ Aria, the virtual assistant, handles inbound customer conversations across four 
 ```
 main.py                  ← CLI entry point & conversation loop
 workflow/
-  agent.py               ← Anthropic tool-use loop (ClosiraAgent)
+  agent.py               ← tool-use loop (ClosiraAgent)
   tools.py               ← 5 tool schemas + Python handlers
   state.py               ← ConversationState dataclass
   prompts.py             ← System prompt builder
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 # 4. Set up your API key
 cp .env.example .env
-# Open .env and replace 'sk-ant-your-key-here' with your real Anthropic API key
+# Open .env and replace 'your-key-here' with your real Gemini API key
 ```
 
 ---
