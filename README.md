@@ -21,7 +21,7 @@ test_transcripts/        ← 5 sample conversations
 prompt_design.md         ← Full prompt design rationale
 ```
 
-**Tech stack:** Python 3.11+, Anthropic Claude (`claude-3-5-sonnet-20241022`), native `tool_use` API
+**Tech stack:** Python 3.11+, native `tool_use` API
 
 ---
 
