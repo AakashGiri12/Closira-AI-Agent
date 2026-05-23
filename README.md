@@ -28,7 +28,7 @@ prompt_design.md         ← Full prompt design rationale
 ## Prerequisites
 
 - Python 3.11 or higher
-- An Gemini API key.
+- A Gemini API key.
 
 ---
 
