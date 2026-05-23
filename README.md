@@ -28,7 +28,7 @@ prompt_design.md         ← Full prompt design rationale
 ## Prerequisites
 
 - Python 3.11 or higher
-- An [Anthropic API key](https://console.anthropic.com/)
+- An Gemini API key.
 
 ---
 
